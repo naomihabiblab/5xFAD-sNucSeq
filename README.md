@@ -17,12 +17,12 @@ To run the code use:
 
 PCgenes.all-to-AD.m and The matlab object: PCgenes.all-to-AD.mat
 
-# Cluster analysis of single nucleus RNA_seq data in R and using the Seurat Package
+# Cluster analysis of single nucleus RNA_seq data in R
 
-Functions for data initialization and clustering, variable genes, 2D embedding and visualization, found here:
+Functions for data initialization and clustering, variable genes, 2D embedding and visualization, using the Seurat Package and R code:
 
 FUNCTIONS_SINGLE_CELL_ANALYSIS.r
 
-Functions for diffusion map embedding and visualization of the results, found here:
+Functions for diffusion map embedding and visualization of the results, using the Destiny Package and R code:
 
 Diffusion_Map.r
