@@ -17,7 +17,7 @@ To run the code use:
 
 PCgenes.all-to-AD.m and The matlab object: PCgenes.all-to-AD.mat
 
-# Cluster analysis of single nucleus RNA_seq data in R
+# Cluster analysis of single nucleus RNA-seq data in R
 
 Functions for data initialization and clustering, variable genes, 2D embedding and visualization, using the Seurat Package and R code:
 
